@@ -1,7 +1,5 @@
 # Smart-Irrigation-system
 
-# Smart Irrigation System
-
 ## Overview
 This project is a Smart Irrigation System designed to optimize water usage for agriculture or gardening. The system monitors soil moisture levels and automatically controls water pumps or valves to irrigate plants only when necessary, saving water and promoting healthy plant growth.
 
