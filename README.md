@@ -14,7 +14,7 @@ This project is a Smart Irrigation System designed to optimize water usage for a
 - Soil moisture sensor  
 - Microcontroller ( ESP32)  
 - Water pump   
-- Relay module  
+- Relay module (here i used 4 channel realy which is available for me) 
 - Power supply  
 - Connecting cables and mounting hardware  
 
@@ -29,7 +29,10 @@ This project is a Smart Irrigation System designed to optimize water usage for a
 5. Configure threshold values for soil moisture and irrigation intervals.  
 6. Power the system and test functionality.
 
-![Image](https://github.com/user-attachments/assets/2f974236-e30a-4dd5-adce-9197addf2c1d)
+ ## Working Model
+
+<img src="https://github.com/user-attachments/assets/2f974236-e30a-4dd5-adce-9197addf2c1d" width="300" />
+
 
 ## Usage
 - Ensure all hardware connections are secure.  
