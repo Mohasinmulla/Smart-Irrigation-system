@@ -40,10 +40,13 @@ This project is a Smart Irrigation System designed to optimize water usage for a
 
 ## Working Model
 
-![](https://github.com/user-attachments/assets/521aa3ca-ff4b-4462-983f-16b74df4222b)  
-![](https://github.com/user-attachments/assets/c212c399-019e-445c-b164-973e33769c29)  
-![](https://github.com/user-attachments/assets/1618d0bc-41fd-42fe-81a0-9c44485c41a5)  
-![](https://github.com/user-attachments/assets/5ea81a9f-492d-429a-86b6-d6aa381b17d9)  
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/521aa3ca-ff4b-4462-983f-16b74df4222b" width="600" />
+  <img src="https://github.com/user-attachments/assets/c212c399-019e-445c-b164-973e33769c29" width="600" />
+  <img src="https://github.com/user-attachments/assets/1618d0bc-41fd-42fe-81a0-9c44485c41a5" width="600" />
+  <img src="https://github.com/user-attachments/assets/5ea81a9f-492d-429a-86b6-d6aa381b17d9" width="600" />
+</div>
+
 
 ## Usage
 - Ensure all sensors and connections are secure.  
