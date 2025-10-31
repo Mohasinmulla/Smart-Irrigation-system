@@ -31,7 +31,10 @@ This project is a Smart Irrigation System designed to optimize water usage for a
 
  ## Working Model
 
-<img src="https://github.com/user-attachments/assets/2f974236-e30a-4dd5-adce-9197addf2c1d" width="300" />
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/2f974236-e30a-4dd5-adce-9197addf2c1d" width="500" />
+</div>
+
 
 
 ## Usage
