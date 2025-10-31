@@ -29,6 +29,8 @@ This project is a Smart Irrigation System designed to optimize water usage for a
 5. Configure threshold values for soil moisture and irrigation intervals.  
 6. Power the system and test functionality.
 
+![Image](https://github.com/user-attachments/assets/2f974236-e30a-4dd5-adce-9197addf2c1d)
+
 ## Usage
 - Ensure all hardware connections are secure.  
 - Monitor soil moisture levels via the provided interface or serial output.  
